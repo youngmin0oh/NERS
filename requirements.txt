@@ -1,0 +1,7 @@
+torch>=1.7.1
+pandas>=1.2.1
+numpy>=1.19.5
+atari_py
+opencv-python
+tqdm
+plotly
